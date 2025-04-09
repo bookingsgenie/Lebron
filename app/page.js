@@ -22,10 +22,10 @@ export default function Home() {
           <p className="mb-4">Use the AI chat assistant below to simulate a real client conversation.</p>
 
           <iframe
-            src="https://www.chatbase.co/chatbot-iframe/ozOt7XNdptzAxzO8uKJwe"
+            src="https://www.chatbase.co/chatbot-iframe/cltclc3nb02vqme2x2hkr7nvz"
             width="100%"
-            height="500px"
-            style={{ border: '1px solid #ccc', borderRadius: '12px' }}
+            height="500"
+            style={{ border: "1px solid #ccc", borderRadius: "12px" }}
             title="AI Assistant Demo"
             allow="microphone;"
           ></iframe>
