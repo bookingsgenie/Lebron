@@ -22,11 +22,11 @@ export default function Home() {
           <p className="mb-4">Use the AI chat assistant below to simulate a real client conversation.</p>
 
           <iframe
-            src="https://www.chatbase.co/chatbot-iframe/cltclc3nb02vqme2x2hkr7nvz"
+            src="https://www.chatbase.co/chatbot-iframe/cltcqkqlg0004me2y5sz8b9qj"
             width="100%"
             height="500"
             style={{ border: "1px solid #ccc", borderRadius: "12px" }}
-            title="AI Assistant Demo"
+            title="BookingsGenie AI Assistant"
             allow="microphone;"
           ></iframe>
         </div>
